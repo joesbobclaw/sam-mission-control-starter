@@ -1,0 +1,12 @@
+{
+  "recurring": [
+    {
+      "id": "r1",
+      "name": "Daily Backup",
+      "schedule": "Once per day",
+      "type": "heartbeat",
+      "source": "HEARTBEAT.md"
+    }
+  ],
+  "oneTime": []
+}
